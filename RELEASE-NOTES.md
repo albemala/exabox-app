@@ -1,5 +1,12 @@
 # exabox release notes
 
+### 1.4.0 (11/6/2022)
+
+- New tools: Convert JSON to TOML and GSON, Evaluate Math expression, Build URL
+- Some tools have been reorganized or renamed
+- There's a new Theme picker UI
+- ... And many more small improvements!
+
 ### 1.3.0 (12/10/2021)
 
 - The main change in this version is the code highlighting. You can see it in a few places in the app, and you can choose your favorite theme in settings.
