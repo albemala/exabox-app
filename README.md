@@ -1,5 +1,7 @@
 # exabox — essential tools for developers
 
+**—Try exabox for free [here](https://tools.exabox.app/).**
+
 exabox is a set of 30+ essential tools for developers. With it you can: convert JSON to YAML, encode and decode Base64 values, generate fake data, parse JWTs, transform a text using multiple rules, and much more. All in a single app.
 
 Tired of remembering a multitude of websites? Worried about pasting sensitive data into websites of dubious origin? exabox works entirely offline, and your data never leaves your machine.
@@ -14,14 +16,16 @@ Read more [on the website](https://exabox.app/).
 
 Currently available tools:
 
+- Build URL
 - Convert: Color format (HEX, RGB, HSV, CSS, Swift, Java, Kotlin, Android XML...), Number base (2, 8, 10, 16, custom)
-- Convert/Format JSON/YAML
+- Convert/Format: JSON/YAML, JSON/GSON, JSON/TOML
 - Encode/decode: Base64, Hash (MD5/SHA/...), Hex, URL (using percent-encoding)
 - Escape/unescape: Backslashes (\t\n\r), HTML/XML
-- Generate: Addresses, Company info, Conference info, Currency info, Data (booleans, numbers, strings), Date/Time, Food info, Internet data (Email/URLs/IPv4/User Agents/...), Job info, JWT, Latin, Personal info, Phone numbers, Sport info, UUID
+- Evaluate: Math Expression, Regular Expression
+- Execute REST call
+- Generate fake data: Addresses, Company info, Conference info, Currency info, Data (booleans, numbers, strings), Date/Time, Food info, Internet data (Email/URLs/IPv4/User Agents/...), Job info, JWT, Latin, Personal info, Phone numbers, Sport info, UUID
 - Inspect Text (char/word frequency, char/word/line count)
 - Parse: Date/Time/Timestamp, JWT (header, payload, signature, issued at, not before, expires at, check if expired), URL, UUID (version, variant)
-- Test: Regular Expression, REST call
 - Transform Text using multiple rules (switch case, sort lines, remove, replace, trim...)
 - ... And more to come!
 
