@@ -1,5 +1,13 @@
 # exabox release notes
 
+### 1.5.0 (23/12/2022)
+
+- New tool to generate QR codes
+- Improved color coversion tool: 
+    - Using camel case for variables
+    - Added support for .Net format, and CMYK, HSI, HSP color spaces
+- UI improvements and bugfixes
+
 ### 1.4.0 (11/6/2022)
 
 - New tools: Convert JSON to TOML and GSON, Evaluate Math expression, Build URL
